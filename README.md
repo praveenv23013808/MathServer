@@ -150,7 +150,8 @@ def rectarea(request):
 
 
 ## HOMEPAGE:
-![Screenshot (8)](https://github.com/praveenv23013808/MathServer/assets/145824728/1416460a-6c08-4bda-b044-6ba73b63d00d)
+![Screenshot (6)](https://github.com/praveenv23013808/MathServer/assets/145824728/7b6aac6c-feea-4af3-98c8-1fa32f4f4c06)
+
 
 
 
