@@ -146,10 +146,12 @@ def rectarea(request):
 
 ## SERVER SIDE PROCESSING:
 
-![Screenshot (95)](https://github.com/surothaaman/MathServer/assets/133313653/3b732801-2ea4-4aa7-982d-01fc9a40e346)
+![Screenshot (8)](https://github.com/praveenv23013808/MathServer/assets/145824728/3eb0e8e3-b53a-446b-9c95-f939ed2dbc52)
+
 
 ## HOMEPAGE:
-![Screenshot (94)](https://github.com/surothaaman/MathServer/assets/133313653/44ae90ee-244f-4b17-ba81-3f9b83bb97bc)
+![Screenshot (8)](https://github.com/praveenv23013808/MathServer/assets/145824728/1416460a-6c08-4bda-b044-6ba73b63d00d)
+
 
 
 ## RESULT:
